@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.treinaweb.zoologico.classes.Animals"/>
+<fullyQualifiedTypeName name="br.com.treinaweb.zoologico.classes.Cachorro.Cachorro"/>
+<fullyQualifiedTypeName name="br.com.treinaweb.zoologico.classes.Cachorro"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Calculador.Class.Adicao"/>
+<fullyQualifiedTypeName name="Calculador.Class.Substracao"/>
+<fullyQualifiedTypeName name="Calculador.Class.Multiplicacao"/>
+<fullyQualifiedTypeName name="Calculador.Class.Divisao"/>
+<fullyQualifiedTypeName name="Fabrica.Calculador.CalcularFabrica"/>
+<fullyQualifiedTypeName name="Calculador.Interface.CalculadorMath"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

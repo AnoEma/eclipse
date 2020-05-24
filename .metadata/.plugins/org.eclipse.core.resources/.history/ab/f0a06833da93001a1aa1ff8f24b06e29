@@ -1,0 +1,17 @@
+package Calculador.Class;
+
+public class CalculadorMath implements Calculador.Interface.CalculadorMath {
+
+	@Override
+	public Boolean validar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int calcular() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

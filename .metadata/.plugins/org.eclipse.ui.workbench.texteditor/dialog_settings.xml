@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="//public Animals(String nome, int idade) {"/>
+		<list key="findhistory">
+			<item value="//public Animals(String nome, int idade) {"/>
+			<item value="&#x09;cachorro.setNome(&quot;Tarzan&quot;);"/>
+		</list>
+	</section>
+</section>

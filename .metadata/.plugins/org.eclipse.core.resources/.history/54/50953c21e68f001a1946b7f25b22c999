@@ -1,0 +1,39 @@
+package br.com.treinaweb.zoologico.classes;
+
+public abstract class Animals {
+	private String nome;
+	private int idade;
+	
+	public String getNome() {
+		return nome;
+	}
+	
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	
+	public int getIdade() {
+		return idade;
+	}
+	
+	public Animals(String nome, int idade) {
+		this.nome = nome;
+		this.idade = idade;
+	}
+	
+	
+	public Animals(String nome2, String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void setIdade(int idade) {
+		this.idade = idade;
+	}
+	
+	public abstract void emitirBarulho();
+	
+	
+	public Boolean maiorIdade() {
+		return idade >= 1;
+	}
+}

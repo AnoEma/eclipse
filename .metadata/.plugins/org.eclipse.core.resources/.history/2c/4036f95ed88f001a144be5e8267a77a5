@@ -1,0 +1,13 @@
+package br.com.treinaweb.zoologico.classes;
+
+public  class Cachorro extends Animals {
+
+	public Cachorro(String nome, int idade) {
+		super(nome, idade);
+		
+	}
+	
+	public Cachorro(String nome) {
+		super(nome, "Cachorro");
+	}
+}

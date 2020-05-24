@@ -1,0 +1,5 @@
+package Calculador.Interface;
+
+public interface CalculadorMath {
+
+}
